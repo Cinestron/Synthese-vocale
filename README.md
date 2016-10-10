@@ -1,2 +1,2 @@
 # Synthese-vocale
-C'est va tenter de produire un un à partir d'une chaine de caractère inserer
+C'est projet va tenter de mettre en place un systeme qui permet la lecture vocale de chaine de caractère et texte inséré
